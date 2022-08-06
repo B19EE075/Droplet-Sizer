@@ -1,4 +1,5 @@
 # Droplet-Sizer
+
 This is an application designed to measure the average radius of the droplets of a spray chamber image. Droplet size is an essential parameter in spray modeling. The tool detects the circles from the provided image and then measures the average radius of the circles as droplets are almost circular.
 This is the GUI of the application.
 
